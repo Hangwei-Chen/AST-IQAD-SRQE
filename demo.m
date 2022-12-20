@@ -1,8 +1,14 @@
 % DEMO Code
-% Version 0.1,  12.2022, by Hangwei Chen, Feng Shao @ NBU
+% Version 0.1,  12.2022, by Hangwei Chen @ NBU
 % -----------------------------------------------------------------------------
 % You can run this m file in MATLAB>=2020:
 % -----------------------------------------------------------------------------
+% Paper citation information:
+% Author: Hangwei Chen, Feng Shao, Xiongli Chai, Yuese Gu, Qiuping Jiang, Xiangchao Meng, and Yo-Sung Ho, 
+% Title: "Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric"
+%  
+% IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, Accept, 2022.
+%-----------------------------------------------------------------------------
 clc;
 clear all;
 
@@ -10,7 +16,7 @@ img_content=imread('content.jpg');
 img_style=imread('style.jpg');
 img_result=imread('stylized_AdaIN.png');
 
-use_gpu = 1;%Using GPU can save a lot of time
+use_gpu = 1;% 0:No, 1:Yes; Using GPU can save a lot of time
 
 [Q_content,Q_style,Q_overall] = SRQE(img_content,img_style,img_result,use_gpu);
 % Higher scores mean better quality
