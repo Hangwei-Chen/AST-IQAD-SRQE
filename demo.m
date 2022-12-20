@@ -6,7 +6,6 @@
 % Paper citation information:
 % Author: Hangwei Chen, Feng Shao, Xiongli Chai, Yuese Gu, Qiuping Jiang, Xiangchao Meng, and Yo-Sung Ho, 
 % Title: "Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric"
-%  
 % IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY, Accept, 2022.
 %-----------------------------------------------------------------------------
 clc;
