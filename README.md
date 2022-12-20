@@ -5,8 +5,8 @@ This is the source code for the IEEE TCSVT paper "Quality Evaluation of Arbitrar
 1. 📎  [Paper Link](#-paper-link)
 2. 💡 [Abstract](#-abstract)
 3. 📃 [Requirement](#-requirement)
-4. 👇 [AST-IQAD](#-AST-IQAD)
-5. 🍎 [SRQE](#-SRQE)
+4. 📁 [AST-IQAD](#-AST-IQAD)
+5. 🍎 [SRQE](#-SRQE)方法
 6. ✨ [Statement](#-statement)
 7. 💎 [Acknowledgement](#-acknowledgement)
 8. 🔍 [Citation](#-citation)
@@ -20,9 +20,8 @@ construct a new AST images quality assessment database (AST-IQAD), which consist
 we propose a new sparse representation-based method, which computes the quality according to the sparse feature similarity. Experimental results on our AST-IQAD have demonstrated the superiority of the proposed method.
 ## 📃 Requirement
 - **Matlab** >=2020
-## 👇 AST-IQAD
-- **AST-IQAD** :
-   You can download the AST-IQAD database at [Baidu Cloud](https://pan.baidu.com/s/1imaLNEeh9YmZkCNtSgzrXw). (password: j71y) 
+## 📁 AST-IQAD
+You can download the AST-IQAD database at [Baidu Cloud](https://pan.baidu.com/s/1imaLNEeh9YmZkCNtSgzrXw). (password: j71y) 
 
 ## 🍎 SRQE
 1. Please run 'demo.m'.
