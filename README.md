@@ -1,4 +1,4 @@
-# AST-IQAD-SRQE (Updated)
+# AST-IQAD database and SRQE method (Updated)
 This is the source code for the IEEE TCSVT paper "Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric".
 
 ##  📋 Table of content
