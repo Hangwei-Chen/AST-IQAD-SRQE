@@ -5,8 +5,8 @@ This is the source code for the IEEE TCSVT paper "Quality Evaluation of Arbitrar
 1. 📎  [Paper Link](#-paper-link)
 2. 💡 [Abstract](#-abstract)
 3. 📃 [Requirement](#-requirement)
-4. 👇 [Download](#-download)
-5. 🍎 [Usages](#-usages)
+4. 👇 [AST-IQAD](#-AST-IQAD)
+5. 🍎 [SRQE](#-SRQE)
 6. ✨ [Statement](#-statement)
 7. 💎 [Acknowledgement](#-acknowledgement)
 8. 🔍 [Citation](#-citation)
@@ -20,17 +20,13 @@ construct a new AST images quality assessment database (AST-IQAD), which consist
 we propose a new sparse representation-based method, which computes the quality according to the sparse feature similarity. Experimental results on our AST-IQAD have demonstrated the superiority of the proposed method.
 ## 📃 Requirement
 - **Matlab** >=2020
-## 👇 Download
-- **net_param** :
-   You can download the "net_param" at the official [link](https://github.com/dingkeyan93/DISTS) (in weights folder) or [Baidu Cloud](https://pan.baidu.com/s/1jqAh5JXisZuha_BXJ_OsGQ). (password: vg5x) 
+## 👇 AST-IQAD
 - **AST-IQAD** :
    You can download the AST-IQAD database at [Baidu Cloud](https://pan.baidu.com/s/1imaLNEeh9YmZkCNtSgzrXw). (password: j71y) 
 
-## 🍎 Usages
-- **SRQE Method** :
-1. Please download the "net_param.mat" and put it in 'Qstyle_function' folder.
-2. Please run 'demo.m'.
-3. You can obtain three quality scores (i.e., CP, SR, OV).
+## 🍎 SRQE
+1. Please run 'demo.m'.
+2. You can obtain three quality scores (i.e., CP, SR, OV). Higher scores mean better quality.
 
 ## 💎 Acknowledgement
 Our code is borrowed parts from [DISTS](https://github.com/dingkeyan93/DISTS) and [PCRL](https://web.xidian.edu.cn/ldli/paper.html). Thanks to them!
