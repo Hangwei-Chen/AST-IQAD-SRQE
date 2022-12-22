@@ -35,4 +35,4 @@ This project is for research purpose only, please contact us for the licence of 
 
 ## 🔍 Citation
 If our datasets and criteria are helpful, please consider citing the following papers.
-
+H. Chen et al., "Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric," IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2022.3231041.
