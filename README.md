@@ -11,7 +11,7 @@ This is the source code for the IEEE TCSVT paper "Quality Evaluation of Arbitrar
 7. 💎 [Acknowledgement](#-acknowledgement)
 8. 🔍 [Citation](#-citation)
 ## 📎 Paper Link
-- **Article title**: "Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric" 
+- **Article title**: "Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric" [link](https://ieeexplore.ieee.org/document/9994780/)
 - **Authors**: Hangwei chen, Feng Shao, Xiongli chai, Yuese Gu, Qiuping Jinag, Xiangchao Meng, Yo-Sung Ho
 - **Institution**: The School of Information Science and Engineering, Ningbo University
 ## 💡 Abstract
