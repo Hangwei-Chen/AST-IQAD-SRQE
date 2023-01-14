@@ -1,5 +1,5 @@
 # AST-IQAD and SRQE
-This is the source code for the [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) paper ["Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric"](https://ieeexplore.ieee.org/document/9994780/).
+This is the source dataset and code for the [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) paper ["Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric"](https://ieeexplore.ieee.org/document/9994780/).
 
 ##  📋 Table of content
 1. 📎  [Paper Link](#-paper-link)
