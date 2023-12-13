@@ -13,7 +13,7 @@ This is the source dataset and code for the [IEEE TCSVT](https://ieeexplore.ieee
 ## 📎 Paper Link
 - **Article title**: [Quality Evaluation of Arbitrary Style Transfer: Subjective Study and Objective Metric](https://ieeexplore.ieee.org/document/9994780/)
 - **Authors**: Hangwei chen, Feng Shao, Xiongli chai, Yuese Gu, Qiuping Jinag, Xiangchao Meng, Yo-Sung Ho
-- **Institution**: The School of Information Science and Engineering, Ningbo University
+- **Institution**: Faculty of Electrical Engineering and Computer Science, Ningbo University
 ## 💡 Abstract
 Arbitrary neural style transfer is a vital topic with great research value and wide industrial application, which strives to render the structure of one image using the style of another. Recent researches have devoted great efforts on the task of arbitrary style transfer (AST) for improving the stylization quality. However, there are very few explorations about the quality evaluation of AST images, even it can potentially guide the design of different algorithms. In this paper, we first
 construct a new AST images quality assessment database (AST-IQAD), which consists 150 content-style image pairs and the corresponding 1200 stylized images produced by eight typical AST algorithms. Then, a subjective study is conducted on our AST-IQAD database, which obtains the subjective rating scores of all stylized images on the three subjective evaluations, i.e., content preservation (CP), style resemblance (SR), and overall vision (OV). To quantitatively measure the quality of AST image,
