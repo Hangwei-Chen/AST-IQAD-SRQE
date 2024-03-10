@@ -21,8 +21,8 @@ we propose a new sparse representation-based method, which computes the quality 
 ## 📃 Requirement
 - **Matlab** >=2020
 ## 📁 AST-IQAD
-You can download the AST-IQAD database at [Baidu Cloud](https://pan.baidu.com/s/1imaLNEeh9YmZkCNtSgzrXw). (password: j71y) 
-You can download the AST-IQAD database at [google drive](https://drive.google.com/file/d/15RkNQ5HwH6CHuRii_TkD33ZC0tWj9ePe/view?usp=drive_link). 
+-You can download the AST-IQAD database at [Baidu Cloud](https://pan.baidu.com/s/1imaLNEeh9YmZkCNtSgzrXw). (password: j71y) 
+-You can download the AST-IQAD database at [google drive](https://drive.google.com/file/d/15RkNQ5HwH6CHuRii_TkD33ZC0tWj9ePe/view?usp=drive_link). 
 
 
 ## 🍎 SRQE
